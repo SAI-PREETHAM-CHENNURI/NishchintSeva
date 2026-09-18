@@ -1,6 +1,0 @@
-{
-  "name": "Nishchint Seva",
-  "description": "Rural healthcare access and frontline care-support platform for India connecting patients, ASHA workers, and verified doctors.",
-  "requestFramePermissions": ["microphone"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
